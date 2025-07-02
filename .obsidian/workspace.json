@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "639b9de8e6511999",
+    "type": "split",
+    "children": [
+      {
+        "id": "731d359d5dd1198d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3500d8429486b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "8526614bd5391509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/命令大全.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命令大全"
+            },
+            "group": "4acefedd8d1ed50c"
+          },
+          {
+            "id": "9ee3636d2748754f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/Pasted image 20250424105345.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250424105345"
+            }
+          },
+          {
+            "id": "52ddd46457672935",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/Pasted image 20250518232409.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250518232409"
+            }
+          },
+          {
+            "id": "e37a8a4499b19620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "监控/falcon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "falcon"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b140d125a10bafae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13c2e25076b2531b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/命令大全.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命令大全"
+            },
+            "group": "4acefedd8d1ed50c"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db00a1bf9698a9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "db5907cb9d750137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6669dccbf9afa7f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d5adc1d12a10616",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "74bea0c87bfc197f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "b7ff315c0b801115",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2573d1ed4f1d8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13def9672a71e5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/命令大全.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 命令大全"
+            }
+          },
+          {
+            "id": "81e933d84b187f55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/命令大全.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 命令大全"
+            }
+          },
+          {
+            "id": "5058811fbad443db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55565f0ecc06185b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/命令大全.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 命令大全"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8526614bd5391509",
+  "lastOpenFiles": [
+    "Linux/iptables.md",
+    "Linux/LVS.md",
+    "工具.md",
+    "Welcome.md",
+    "Linux/命令大全.md",
+    "Networking/TCP.md",
+    "OS/基础概念.md",
+    "Networking/其他.md",
+    "面试/面经.md",
+    "Pasted image 20250605172959.png",
+    "Linux/内核参数.md",
+    "Google SRE.md",
+    "监控/普罗米修斯.md",
+    "Networking/VRRP.md",
+    "Nginx/基础.md",
+    "Nginx/场景.md",
+    "监控/falcon.md",
+    "Networking/场景.md",
+    "K8S/健康检查.md",
+    "Pasted image 20250520112834.png",
+    "python/基础.md",
+    "Linux/场景.md",
+    "Networking/HTTP.md",
+    "src/Pasted image 20250518233116.png",
+    "src/Pasted image 20250518222623.png",
+    "src/Pasted image 20250518232409.png",
+    "src/Pasted image 20250518222522.png",
+    "Linux/基础.md",
+    "python",
+    "src/Pasted image 20250517214615.png",
+    "Nginx/常用字段、header.md",
+    "src/Pasted image 20250517170709.png",
+    "OS/场景.md",
+    "src/Pasted image 20250424105345.png",
+    "src/Pasted image 20250517165951.png",
+    "DB/基础.md",
+    "Go/总结.md",
+    "Go",
+    "Go",
+    "DB",
+    "Untitled.canvas",
+    "面试",
+    "src",
+    "监控",
+    "运维排查/Untitled",
+    "运维排查",
+    "Nginx"
+  ]
+}
