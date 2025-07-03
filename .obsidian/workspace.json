@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/命令大全.md",
+                "file": "Google SRE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "命令大全"
+              "title": "Google SRE"
             },
             "group": "4acefedd8d1ed50c"
+          },
+          {
+            "id": "647ce05b8b7d01d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/Pasted image 20250520112834.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250520112834"
+            }
           },
           {
             "id": "9ee3636d2748754f",
@@ -75,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b140d125a10bafae",
@@ -87,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/命令大全.md",
+                "file": "Google SRE.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "命令大全"
+              "title": "Google SRE"
             },
             "group": "4acefedd8d1ed50c"
           }
@@ -243,20 +255,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8526614bd5391509",
+  "active": "6669dccbf9afa7f3",
   "lastOpenFiles": [
+    "Google SRE.md",
+    "src/Pasted image 20250703115301.png",
+    "Linux/命令大全.md",
     "Linux/iptables.md",
     "Linux/LVS.md",
     "工具.md",
     "Welcome.md",
-    "Linux/命令大全.md",
     "Networking/TCP.md",
     "OS/基础概念.md",
     "Networking/其他.md",
     "面试/面经.md",
-    "Pasted image 20250605172959.png",
+    "src/Pasted image 20250605172959.png",
     "Linux/内核参数.md",
-    "Google SRE.md",
     "监控/普罗米修斯.md",
     "Networking/VRRP.md",
     "Nginx/基础.md",
@@ -264,7 +277,7 @@
     "监控/falcon.md",
     "Networking/场景.md",
     "K8S/健康检查.md",
-    "Pasted image 20250520112834.png",
+    "src/Pasted image 20250520112834.png",
     "python/基础.md",
     "Linux/场景.md",
     "Networking/HTTP.md",
@@ -279,9 +292,7 @@
     "src/Pasted image 20250517170709.png",
     "OS/场景.md",
     "src/Pasted image 20250424105345.png",
-    "src/Pasted image 20250517165951.png",
     "DB/基础.md",
-    "Go/总结.md",
     "Go",
     "Go",
     "DB",
